@@ -1,4 +1,4 @@
-# How to to automate the Norminette formatting tool within Visual Studio Code
+# How to use Norm formatting tool in VS Code
 
 Find documentation in:
 
