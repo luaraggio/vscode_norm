@@ -5,7 +5,7 @@
 </p>
 
 <p align="">
-  Find documentation in:
+  Documentation available in:
 
 - [English](docs/README_en.md)
 - [Portuguese](docs/README_pt.md)
