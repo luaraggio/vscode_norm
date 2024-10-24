@@ -1,10 +1,5 @@
-<h1 align="center">Como automatizar norminette no VS Code?</h1>
-
-<p align="center">
-  <img src="https://opengraph.githubassets.com/b76d7546c297b76cafcb0b1a0ce6fe5303af569216085b75818cf37613910700/42Paris/norminette-v2" alt="Norminette Automation" width="500">
-</p>
-
-<p align="center">
+<h1 align="center">Como automatizar norminette no VS Code? 👾</h1>
+<p align="">
   Ao salvar um arquivo no VS Code, será possível formatar automaticamente o código para que se enquadre na norminette.
 </p>
 
