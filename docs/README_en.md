@@ -9,7 +9,7 @@
 <h2>Step by Step</h2>
 
 <h3>1. Clone the c_formatter_42 Repository</h3>
-<p>First, clone the official <code>c_formatter_42</code> repository to the desired location and keep the repository path (which will be used later in the VS Code settings).</p>
+<p>First, clone the <code>c_formatter_42</code> repository to the desired location and keep the repository path (which will be used later in the VS Code settings).</p>
 
 <pre><code>git clone git@github.com:luaraggio/c_formatter_42.git</code></pre>
 
