@@ -1,10 +1,6 @@
 <h1 align="center">Automating Norminette in VS Code 👾</h1>
 
-<p align="center">
-  <img src="url_of_your_image" alt="Norminette Automation" width="300">
-</p>
-
-<p align="center">
+<p align="">
   When saving a file in VS Code, it is possible to automatically format the code to comply with Norminette.
 </p>
 
