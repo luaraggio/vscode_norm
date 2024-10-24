@@ -1,4 +1,4 @@
-# Welcome to My Project
+# How to to automate the Norminette formatting tool within Visual Studio Code
 
 Find documentation in:
 
