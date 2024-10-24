@@ -8,6 +8,6 @@
   Find documentation in:
 
 - [English](docs/README_en.md)
-- [Português](docs/README_pt.md)
+- [Portuguese](docs/README_pt.md)
 
 </p>
